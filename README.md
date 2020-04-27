@@ -1,5 +1,5 @@
 # Mitigating Web Shells
-This repository houses a number of tools and signatures to help defend networks against web shell malware. More information about web shells and the analytics used by the tools here is available in [NSA’s web shell mitigation guidance](https://nsa.gov/)
+This repository houses a number of tools and signatures to help defend networks against web shell malware. More information about web shells and the analytics used by the tools here is available in [NSA’s web shell mitigation guidance](https://www.nsa.gov/)
 
 **Table of Contents**
 - [Mitigating Web Shells](#mitigating-web-shells)
